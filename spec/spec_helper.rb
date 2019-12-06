@@ -24,7 +24,7 @@ RSpec.configure do |config|
 
   config.before(:each) do
     connection = PG.connect(dbname: 'bookmark_manager_test') 
-    connection.exec('TRUNCATE TABLE bookmarks')
+    connection.exec('TRUNCATE TABLE bookmarks, comments')
   end
   # rspec-expectations config goes here. You can use an alternate
   # assertion/expectation library such as wrong or the stdlib/minitest
