@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/student/Projects/Pairing/Week-4-Bookmark-Manager/bookmark-manager-thu/spec/bookmark_spec.rb": [
+      "/Users/student/Projects/Pairing/Week-4-Bookmark-Manager/bookmark-manager-fri/spec/bookmark_spec.rb": [
         1,
         null,
         1,
@@ -74,7 +74,38 @@
         null,
         null
       ],
-      "/Users/student/Projects/Pairing/Week-4-Bookmark-Manager/bookmark-manager-thu/spec/features/adding_bookmarks_spec.rb": [
+      "/Users/student/Projects/Pairing/Week-4-Bookmark-Manager/bookmark-manager-fri/spec/database_connection_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/student/Projects/Pairing/Week-4-Bookmark-Manager/bookmark-manager-fri/spec/features/adding_bookmarks_spec.rb": [
         1,
         1,
         1,
@@ -85,7 +116,7 @@
         null,
         null
       ],
-      "/Users/student/Projects/Pairing/Week-4-Bookmark-Manager/bookmark-manager-thu/spec/features/deleting_bookmarks_spec.rb": [
+      "/Users/student/Projects/Pairing/Week-4-Bookmark-Manager/bookmark-manager-fri/spec/features/deleting_bookmarks_spec.rb": [
         1,
         1,
         1,
@@ -99,7 +130,7 @@
         null,
         null
       ],
-      "/Users/student/Projects/Pairing/Week-4-Bookmark-Manager/bookmark-manager-thu/spec/features/updating_bookmarks_spec.rb": [
+      "/Users/student/Projects/Pairing/Week-4-Bookmark-Manager/bookmark-manager-fri/spec/features/updating_bookmarks_spec.rb": [
         1,
         1,
         1,
@@ -118,7 +149,7 @@
         null,
         null
       ],
-      "/Users/student/Projects/Pairing/Week-4-Bookmark-Manager/bookmark-manager-thu/spec/features/viewing_bookmarks_spec.rb": [
+      "/Users/student/Projects/Pairing/Week-4-Bookmark-Manager/bookmark-manager-fri/spec/features/viewing_bookmarks_spec.rb": [
         null,
         1,
         1,
@@ -142,6 +173,6 @@
         null
       ]
     },
-    "timestamp": 1575583453
+    "timestamp": 1575638241
   }
 }
